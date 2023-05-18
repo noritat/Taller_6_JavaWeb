@@ -29,14 +29,9 @@ Para ejecutar este proyecto se necesitan los siguientes requisitos:
 - Una base de datos MySQL
 - Widfly 27.0.1
 - IntelliJ IDEA
+- Tener las depencias configuradas dentro del proyecto 
+- ![dependencias](https://github.com/noritat/Taller_6_JavaWeb/assets/128448216/7a6cf666-bf37-4d96-80a7-188db646bd58)
 
-# Configuración de la base de datos
-
-Antes de ejecutar la aplicación, es necesario configurar la conexión a la base de datos en la carpeta Util dentro de las 4 clases presentadas anteriormente debe tener el siguiente contenido:
-
--  private static final String URL= "jdbcmysql://localhost:3306/my_app serverTimezone=America/Bogota";"
-- private static final String USER ="El usuario que crees en mysql";
-- private static final String PASS="la contraseña que quieras";
 
 # Autor
 
@@ -44,7 +39,6 @@ Este proyecto fue creado por Angely Estrada.
 Derechos reservados a Servicio Nacional de Aprendizaje (SENA).
 
 
-![dependencias](https://github.com/noritat/Taller_6_JavaWeb/assets/128448216/167f2da2-e345-4bbc-9b19-6f310e73c819)
 
 
 
